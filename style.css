@@ -1,3 +1,32 @@
-body {
-    background-color: lightblue;
-  }
+html, nav {
+    background-color: coral;
+  }  
+
+html, header {
+  background-color: bisque;
+}
+
+html, main {
+  background-color: aquamarine;   
+}
+
+html, footer {
+  background-color: cornflowerblue;
+}
+
+html, ol {
+  background: salmon;
+  padding: 20px;
+}
+
+html, ol li {
+  background: mistyrose;
+  color: darkred;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+
+html, body {
+  background-color: lightblue;
+}
