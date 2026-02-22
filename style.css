@@ -19,14 +19,17 @@ html, ol {
   padding: 20px;
 }
 
-html, ol li {
+.best2worst {
   background: mistyrose;
   color: darkred;
   padding: 10px;
-  margin-left: 20px;
 }
 
 
 html, body {
   background-color: lightblue;
+}
+
+.favorite {
+  background-color: aquamarine;
 }
