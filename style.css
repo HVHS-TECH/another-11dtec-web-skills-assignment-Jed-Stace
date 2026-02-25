@@ -27,9 +27,15 @@ html, ol {
 
 
 html, body {
-  background-color: lightblue;
+  background-color: darkslategray;
 }
 
 .favorite {
   background-color: aquamarine;
+}
+
+.list {
+  background: #F6D0B1;
+  color: #A393BF;
+  padding: 10px;
 }
